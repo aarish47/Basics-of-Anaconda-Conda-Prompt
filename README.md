@@ -1,5 +1,5 @@
 
-# **Conda Fundamentals README**
+# **Conda Fundamentals: README**
 
 **Overview**\
 This repository provides a foundational understanding of conda, a powerful package and environment management tool. Whether you're new to conda or looking to refresh your knowledge, this resource aims to cover the essential concepts and usage.
