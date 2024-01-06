@@ -25,11 +25,4 @@ Dive into more advanced configuration options, such as specifying dependencies, 
 **Updating and Upgrading**\
 Stay up-to-date with the latest features and bug fixes by learning how to update conda itself and upgrade packages in your environments.
 
-**Troubleshooting**\
-Encounter and solve common issues that may arise during conda usage. Explore debugging techniques and refer to community resources for additional support.
 
-**Contributing**\
-If you find any issues or have suggestions for improvement, feel free to contribute! Check the Contribution Guidelines for details on how to get involved.
-
-**License**\
-This project is licensed under the MIT License - see the LICENSE.md file for details.
